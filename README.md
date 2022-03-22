@@ -1,4 +1,4 @@
-### Hi there 👋. I'm Steven
+### Hi there 👋  - I'm Steven
 
 <!--
 **swusteven/swusteven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
