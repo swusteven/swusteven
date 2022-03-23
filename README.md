@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I'm a Software Engineer👨🏼‍💻 with a background in Corporate Operations and 📈 Finance. I have experience building applications using JavaScript, React, Redux, Ruby,  Ruby on Rails, Node.js, Express.js, PostgreSQL, MongoDB and other technologies.
 
-When I'm not programming, I am passionate about swimming, finance and investing, traveling, and trying different foods around the city. 
+When I'm not programming, I am passionate about swimming, finance and investing, travelling, and trying different foods around the city. 
 
 ## Projects:
 
