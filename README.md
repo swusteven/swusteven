@@ -24,7 +24,7 @@ When I'm not programming, I am passionate about swimming, finance and investing,
 
 [Toysy](https://github.com/swusteven/Toysy)  - is a a single-page full-stack clone of Esty.com, allowing users to browse, search for, and purchase unique toys. 
 
-[whatsGood](https://github.com/YWBK/whatsGood)  - is a platform for users to share lists of books. Users can create their own lists, follow users, and follow other lists.
+[whatsGood](https://github.com/YWBK/whatsGood)  - A MERN stack group project with [Ethan Gumin](https://github.com/ethangumin), [Katie Hang](https://github.com/johnda911), [Bill Kim](https://github.com/YWBK). whatsGood is a platform for users to share lists of books. Users can create their own lists, follow users, and follow other lists.
 
 [ResearchOrSwim](https://github.com/swusteven/ResearchOrSwim) - is a stock investing analytics dashboard that simplified the investment research process.
 
